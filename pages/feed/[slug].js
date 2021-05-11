@@ -1,5 +1,5 @@
 import {useRouter} from 'next/router'
-import Toolbar from '../../component/Toolbar';
+import Toolbar from '../../component/toolbar';
 import styles from '../../styles/Feed.module.css';
 const Feed =({articles,pageNumber}) => {
   const router=useRouter();
