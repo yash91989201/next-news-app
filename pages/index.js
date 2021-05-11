@@ -1,6 +1,6 @@
 
 import styles from '../styles/Home.module.css'
-import Toolbar from '../component/toolbar';
+import Toolbar from '../../component/toolbar';
 
 export default function Home() {
   return (

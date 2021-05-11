@@ -1,5 +1,5 @@
 import styles from '../styles/EOM.module.css';
-import Toolbar from '../component/toolbar';
+import Toolbar from '../../component/toolbar';
 const EOM = ({employee}) => {
     return ( 
         <>
